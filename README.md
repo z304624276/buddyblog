@@ -1,6 +1,6 @@
-# Vue Web - Pulse Blog Studio
+# Vue Web 
 
-这是原 web 项目使用 Vue3 和 Supabase 重构的版本。
+这是原 Codebuddy 项目使用 Vue3 和 Supabase 重构的版本。
 
 ## 技术栈
 

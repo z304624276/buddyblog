@@ -155,16 +155,7 @@ npm run build
 ### comments
 评论表
 
-## 主要差异
 
-与原 React + PocketBase 版本的主要差异:
-
-1. **框架**: React → Vue 3
-2. **类型**: TypeScript → JavaScript
-3. **状态管理**: TanStack Query → Pinia
-4. **后端**: PocketBase → Supabase
-5. **认证**: PocketBase Auth → Supabase Auth
-6. **文件存储**: PocketBase Files → Supabase Storage
 
 ## 注意事项
 
